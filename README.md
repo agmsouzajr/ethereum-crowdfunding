@@ -19,7 +19,7 @@ A decentralized crowdfunding platform built on **Ethereum** using **Solidity, Ha
 ## 🎯 Getting Started
 ### **1. Clone the Repo**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/ethereum-crowdfunding.git
+git clone https://github.com/agmsouzajr/ethereum-crowdfunding.git
 cd ethereum-crowdfunding
 ```
 
@@ -31,7 +31,7 @@ npm install
 ### **3. Compile & Deploy Smart Contract**
 ```sh
 npx hardhat compile
-npx hardhat run scripts/deploy.js --network goerli
+npx hardhat run scripts/deploy.js --network sepolia
 ```
 
 ### **4. Run Frontend**
@@ -49,5 +49,5 @@ This project is **MIT Licensed**. Feel free to use and modify it!
 Contributions are welcome! Feel free to **fork** the repo and submit a **pull request**.
 
 ## 💬 Contact
-For questions, reach out via **[LinkedIn](https://linkedin.com/in/your-profile)** or open an **issue** in this repo.
+For questions, reach out via **[LinkedIn](https://linkedin.com/in/agmsouzajr)** or open an **issue** in this repo.
 
